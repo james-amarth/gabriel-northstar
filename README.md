@@ -1,5 +1,4 @@
 # gabriel-northstar
-HEAD
 A mod for Titanfall 2 that replaces the default Northstar Prime OS/voice with Gabriel from Ultrakill.
 
 # Install
