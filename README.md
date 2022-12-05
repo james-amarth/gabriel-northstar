@@ -2,6 +2,9 @@
 HEAD
 A mod for Titanfall 2 that replaces the default Northstar Prime OS/voice with Gabriel from Ultrakill.
 
+# Install
+Extract "Gabriel Northstar Prime" folder to Titanfall2/R2Northstar/mods
+
 # changelog
 1.2.0
 Added disembark lines because I apparently forgot to add them
@@ -14,15 +17,6 @@ Fixed readme for page
 
 1.0.0
 Release
-
-# Install
-Extract "Gabriel Northstar Prime" folder to Titanfall2/R2Northstar/mods
-=======
-A mod for Titanfall 2 that replaces the default Northstar OS/voice with Gabriel from Ultrakill.
-
-# Install
-Extract contents of zip to Titanfall2/R2Northstar/mods
-
 
 # Credits
 morebagels#9874 on discord for originally making the mod and allowing me to take it over
