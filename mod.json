@@ -1,6 +1,9 @@
 {
-	"Name": "GabrielGaming",
-	"Description": "dun nu nu ne ne nuh",
+	"Name": "Gabriel Northstar",
+	"Description": "Replaces the Northstar OS with Gabriel from Ultrakill | BEHOLD, THE LEGGIES OF AN ANGEL",
 	"Version": "1.0.0",
+	"Authors": [
+        "Link"
+    ],
 	"LoadPriority": 0
 }
